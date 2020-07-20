@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on hackers academy in Souch Korea
+- 🌱 I’m currently learning Java(Spring, Spring Boot)
+- 📫 How to reach me: snowbrightly@hotmail.com
+- ⚡ Fun fact: World of Warcraft
+
 <!--
 **songxue77/songxue77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
