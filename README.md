@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on hackers academy in Souch Korea
+- 🔭 I’m currently working on hackers academy in South Korea
 - 🌱 I’m currently learning Java(Spring, Spring Boot)
 - 📫 How to reach me: snowbrightly@hotmail.com
 - ⚡ Fun fact: World of Warcraft
