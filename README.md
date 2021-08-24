@@ -3,8 +3,8 @@
 ```javascript
 const '심설송' = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "php", "Python"],
-    askMeAbout: ["web dev", "tech", "world of warcraft"],
+    code: ["php", "javascript", "python"],
+    askMeAbout: ["web dev", "tech"],
     technologies: {
         frontEnd: {
             js: ["JQuery"],
