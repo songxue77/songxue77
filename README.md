@@ -3,7 +3,7 @@
 ```javascript
 const '심설송' = {
     pronouns: "He" | "Him",
-    code: ["php", "javascript", "python"],
+    code: ["java", "php", "python", "javascript"],
     askMeAbout: ["web dev", "tech"],
     technologies: {
         frontEnd: {
@@ -11,15 +11,16 @@ const '심설송' = {
             css: ["bootstrap"]
         },
         backEnd: {
+            java: ["spring boot"],
             php: ["laravel", "codeigniter"],
-            python: ["flask"]
+            python: ["flask", "fastapi"]
         },
         devOps: ["AWS", "Nginx"],
-        databases: ["MariaDB", "MySql", "Redis"],
+        databases: ["MongoDB", "MariaDB", "MySql", "Redis"],
     },
-    architecture: ["Monolith"],
+    architecture: ["MSA", "Monolith"],
     currentProject: "I am learning Java(Springboot)",
-    company: currently working on Hackers Education Group (South Korea)
+    company: currently working on wesang (South Korea)
 };
 ```
 
